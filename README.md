@@ -35,6 +35,37 @@ It is not designed around giving an AI unlimited authority. It separates **intel
 
 ---
 
+## AI should not ask you to trust it. It should be able to prove what it did.
+
+Most AI products compete on **what the model can say**.
+
+V3XILITE is being built around a different question:
+
+### **What can the system safely prove, remember, execute and verify for you?**
+
+| Traditional AI | V3XILITE direction |
+|---|---|
+| Generates an answer | Produces an outcome with evidence |
+| Model confidence | Verifiable claims |
+| One chat session | Personal + project continuity |
+| Tool access | Permission-aware execution |
+| “Done” | Proof Receipt |
+| Cloud by default | Local-first where it matters |
+| Agent has tools | Agent still needs authority |
+| More autonomy | More capable **and** more accountable |
+
+**This is not another AI wrapper.**  
+The ambition is an intelligence layer where reasoning, authority, execution and proof remain deliberately separated.
+
+### Why follow the project?
+
+If you care about **AI agents, local AI, verifiable AI, trustworthy automation, privacy, cybersecurity, multi-agent systems, AI infrastructure or human-controlled autonomy**, this repository tracks the public evolution of V3XILITE without exposing its proprietary core.
+
+**Watch** the repository for public milestones.  
+**Star** it if you want to follow the project toward **01.01.27**.
+
+---
+
 ## The ecosystem
 
 | Product | Purpose |
